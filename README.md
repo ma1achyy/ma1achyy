@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Malachy
 
 Welcome to my GitHub!  
-I’m a  student at UH who’s really into **cybersecurity, networks, and tech tinkering**. I like breaking stuff in labs, figuring out how it works, and then documenting it here.  
+I’m a  student at UH who’s into **cybersecurity, networks, and tech tinkering**. I like breaking stuff in labs, figuring out how it works, and then documenting it here.  
 
 Right now I’m:  
 - 🛠️ Building a **cyber lab** with honeypots, SIEMs, and traffic analysis tools  
